@@ -297,6 +297,7 @@ namespace AppraisalHistoryDemo
                         default:
                             Console.WriteLine("Error! Enter correct option");
                             break;
+
                     }
                 }
                 else
